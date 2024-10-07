@@ -84,7 +84,7 @@
         "opis/closure": "^3.6@dev",
         "phenx/php-svg-lib": "0.5.2",
         "phpdocumentor/reflection-docblock": "^5.0@dev",
-        "phpoffice/phpspreadsheet": "1.29.0",
+        "phpoffice/phpspreadsheet": "1.29.2",
         "phpseclib/phpseclib": "~3.0",
         "predis/predis": "*",
         "rappasoft/laravel-livewire-tables": "v2.12.0",
