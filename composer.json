@@ -65,7 +65,7 @@
         "lcobucci/jwt": "*",
         "league/csv": "^9.0@dev",
         "league/omnipay": "*",
-        "livewire/livewire": "v2.11.0",
+        "livewire/livewire": "v2.12.7",
         "mailerlite/mailerlite-api-v2-php-sdk": "*",
         "microweber-deps/image-comparator": "dev-master",
         "microweber-deps/laravel-cors": "^3.1",
